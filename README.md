@@ -69,6 +69,7 @@ Try our demo on [Demo-Dolphin](http://115.190.42.15:8888/dolphin/).
 
 2. Install the dependencies:
    ```bash
+   apt install -y libgl1
    pip install -r requirements.txt
    ```
 
